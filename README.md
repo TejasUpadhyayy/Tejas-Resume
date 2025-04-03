@@ -33,10 +33,10 @@
 - Spearheaded UI/UX implementation using Streamlit, reducing development time by 50% while enabling real-time content streaming.  
 
 ## Skills  
-- **Programming:** Python, JavaScript/TypeScript, C++, C#, SQL, Go, Rust  
+- **Programming:** Python, JavaScript/TypeScript, C++, SQL, 
 - **AI/ML Tools:** Scikit-learn, TensorFlow, PyTorch, Generative AI, Deep Learning, AutoGen, Agentic AI  
 - **Data Tools:** PostgreSQL, MongoDB, Redis, Apache Kafka, Elasticsearch, Tableau, Power BI  
-- **Cloud & DevOps:** AWS (EC2, S3, Lambda), Docker, Kubernetes, CI/CD Pipelines  
+- **Cloud & DevOps:** AWS (EC2, S3, Lambda), Docker, CI/CD Pipelines  
 
 ## Professional Certifications  
 - **MLOps Specialization (Duke University):** Advanced ML pipelines, model deployment  
